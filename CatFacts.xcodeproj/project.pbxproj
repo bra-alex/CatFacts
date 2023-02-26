@@ -11,6 +11,7 @@
 		98A33EB929AB7F7E0037B830 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98A33EB829AB7F7E0037B830 /* ContentView.swift */; };
 		98A33EBB29AB7F800037B830 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98A33EBA29AB7F800037B830 /* Assets.xcassets */; };
 		98A33EBE29AB7F800037B830 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98A33EBD29AB7F800037B830 /* Preview Assets.xcassets */; };
+		98A33EC529AB80C80037B830 /* CatController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98A33EC429AB80C80037B830 /* CatController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		98A33EB829AB7F7E0037B830 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		98A33EBA29AB7F800037B830 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		98A33EBD29AB7F800037B830 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		98A33EC429AB80C80037B830 /* CatController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				98A33EB629AB7F7E0037B830 /* CatFactsApp.swift */,
 				98A33EB829AB7F7E0037B830 /* ContentView.swift */,
+				98A33EC429AB80C80037B830 /* CatController.swift */,
 				98A33EBA29AB7F800037B830 /* Assets.xcassets */,
 				98A33EBC29AB7F800037B830 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				98A33EB929AB7F7E0037B830 /* ContentView.swift in Sources */,
+				98A33EC529AB80C80037B830 /* CatController.swift in Sources */,
 				98A33EB729AB7F7E0037B830 /* CatFactsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
